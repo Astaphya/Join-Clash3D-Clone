@@ -1,4 +1,4 @@
 # Join-Clash3D-Clone
 
 
-#### Gameplay videosu : https://youtu.be/wyyipewHODE
+#### Gameplay : https://youtu.be/wyyipewHODE
